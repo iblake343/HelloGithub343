@@ -5,5 +5,5 @@ using std::cin;
 
 int main()
 {
-	cout << "Hello GitHub!\n";
+	cout << "Hello Octocat ^_^!\n";
 }
